@@ -1,0 +1,23 @@
+/* CSS Code */
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading {
+    width: 100%;
+    font-size: 25px;
+    color: white;
+}
+
+.note {
+    width: 100%;
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+}
+
+canvas {
+    border: 5px ridge skyblue;
+    border-radius: 20px;
+}
